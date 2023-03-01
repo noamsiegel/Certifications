@@ -6,3 +6,4 @@ A repo composed of all the certifications I have. Feel free to browse.
 - [Machine Learning with Python](https://www.freecodecamp.org/certification/noamsiegel/machine-learning-with-python-v7)
 - [Google Cloud Fundementals: Core Infrastructure](https://www.coursera.org/account/accomplishments/certificate/65P34YGNX7B3)
 - [Gapminder](https://drive.google.com/file/d/17HwB5EXVjoLGRU54RKBKj7qRZkEf18sT/view)
+- [Data Visualization](https://www.freecodecamp.org/certification/noamsiegel/data-visualization)
